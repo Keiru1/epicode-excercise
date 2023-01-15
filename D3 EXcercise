@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Activity</title>
+   <link rel="stylesheet" href="style.css">
+
+     </head>
+<div class="main-section">
+    <div class="image-container">
+    
+<body>
+    <a href="https://github.com/Keiru1">
+        
+<p>
+Author: Iruka Edeh 
+
+<div class="background-image"></div>
+</p>
+</a>
+<h1 id="Travel" > Positano
+</h1>
+<h3>
+    (Positano, Campania, Italy)
+</h3>
+<h2 class="blue-text" > Travel destinations </h2>
+<h4  Positano is a cliffside village on southern Italy's Amalfi Coast. It's a well-known holiday destination with a pebble beachfront and steep, narrow streets lined with boutiques and cafes. 
+</h4>
+</Hr>
+<p id="first-paragraph">
+    The church of Santa Maria Assunta features a dome made of majolica tiles as well as a thirteenth-century Byzantine icon of a black Madonna. According to local legend, the icon had been stolen from Byzantium and was being transported by pirates across the Mediterranean. A storm had blown up in the waters opposite Positano and the frightened sailors heard a voice on board saying "Posa, posa!" ("Put down! Put down!"). The icon was unloaded and carried to the fishing village and the storm abated.
+    The Marina Grande beach is at the base of the cliff side town of Positano and is the most recognized beach in the town. Other popular beaches include Fornillo beach (the second largest beach in Positano) and Arienzo beach.
+    MAR Positano (Roman Archaeological Museum) Santa Maria Assunta. The museum, inaugurated on 18 July 2018, is a museum-like archaeological site. The underground complex is divided into two crypts and a room of the Roman villa. The walls of the frescoed room from the imperial era are the only example of wall painting in Roman villas on the Amalfi Coast. The particularly bright colors are a peculiarity of the site. Further archaeological investigations are planned, aimed at the recovery of other rooms of the complex.
+
+    <p>
+
+       
+        Culture
+
+Panoramic view of Positano
+Positano has been featured in several films, including Only You (1994), and Under the Tuscan Sun (2003), as well as more recently in Kath & Kimderella (2012) and being mentioned in the 2009 musical film Nine in the song "Cinema Italiano". It has also hosted the annual Cartoons on the Bay Festival, at which Pulcinella Awards for excellence in animation are presented.
+
+From July 1967 and through most of the 1970s, Positano was home to singer-songwriter Shawn Phillips and where most of his best-known work was composed. Mick Jagger and Keith Richards from The Rolling Stones wrote the song "Midnight Rambler" in the cafes of Positano while on vacation.
+
+Renowned director and producer Franco Zeffirelli owned the Villa Treville in Positano, where he took residence over a 35-year period and hosted a coterie of literati and stars of the stage and screen. He hired his friend, Renzo Mongiardino, who collaborated on many of his theater and opera projects, to design the exquisite interiors which reflect the local design sensibilities and craftsmanship. The Villa Treville has since been converted into a five-star boutique hotel.
+
+German pianist Wilhelm Kempff made Positano his summer retreat and there he taught a summer course on the Beethoven piano sonatas and concerti. Since his death in 1991, the Beethoven Kurse has continued under the organization of the Wilhelm Kempff Kulturstiftungng, having had as teachers Gerhard Oppitz and John O'Conor.
+
+Today tourism is by far the major industry. Positano is also very popular for Limoncello and "L'Albertissimo", an alcoholic tipple that can only be found at a small stall at the main harbor.
+
+The town's rapid growth from a small fishing village to an international destination is credited to the rise of the tourism industry. In addition to the beaches, cliffs, and historic sites, clothing stores and restaurants are scattered throughout Positano, attracting tourists from around the world. To complete the picture, natural lemon, orange, and olive groves grow prominently across the cliffside town. The produce is often sold in fresh markets around the city.[4]
+
+The fictional town of "Mongibello" in the 1955 novel The Talented Mr. Ripley is based on Positano. The town and various villages on the islands of Ischia and Procida were used to represent Mongibello in a 1999 film based on the novel.
+
+Positano is also home to football club A.S.D. San Vito Positano 1956, who play at Stadio Vittorio de Sica and compete in the Promozione Campania.
+
+        
+    </p>
+<h6>
+Related Places 
+</h6>
+
+<a href="./name-of-place.html">
+<ul style=list-style:none;>  
+<li>Amalfi</li>
+<li>Sorrento</li>
+<li>Eboli</li>
+<li>Gragnano</li>
+<li> Nola</li>
+</ul>
+</a>
+
+</body>
+</div>
+
+
+<div>
+    <form onsubmit=" alert("Your message has been sumbmitted")>
+        <input class= "display-block" type="text" placeholder="enter your email">
+        <label for="email input"></label>
+        <textarea cols="30" rows="10"
+        placeholder="Write your message here"></textarea>
+        <button type class="display-block"="submit"> Contact us </button>
+    
+</div>
+
+
+
+</form>
+<footer>
+    <p> Iruka Edeh 2023 </p>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
